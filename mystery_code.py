@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer:
+# Answer: Get 2 random number between 1 and 6 many times, and see after how many times the 2 random numbers occur to be the same.
 
 # Import libraries
 # randint allows drawing a random number,
